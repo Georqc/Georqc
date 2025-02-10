@@ -2,12 +2,12 @@
 Second-year software development student passionate about web design and development. I enjoy creating intuitive user interfaces while building scalable and robust backend systems that make them tick.
 
 
-## 🚀 What I'm Up To:  
+## What I'm Up To:  
 ☕️ Diving deeper into Java, exploring advanced concepts and backend development.  
 
 📅 Replacing manual VR/AR equipment booking with a database-driven system for better tracking and efficiency.
 
-## 🛠 Languages & Tools 
+## Languages & Tools 
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
