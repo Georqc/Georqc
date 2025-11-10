@@ -1,5 +1,5 @@
 # 👋 About Me:
-Second-year software development student passionate about web design and development. I enjoy creating intuitive user interfaces while building scalable and robust backend systems that make them tick.
+Third-year software development student passionate about web design and development. I enjoy creating intuitive user interfaces while building scalable and robust backend systems that make them tick.
 
 
 ## What I'm Up To:  
